@@ -1,4 +1,4 @@
-# PJUnit Test Suite
+# JUnit Test Suite
 Proyecto de la evaluación 3 de ED - Trabajo practico 1
 
 # Testing desde IDE
