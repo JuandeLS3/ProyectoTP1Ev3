@@ -1,3 +1,4 @@
+package Ex_Ev3.Ex_Mvn;
 import static org.junit.Assert.*;
 import org.junit.Assert;
 import org.junit.Before;
